@@ -13,7 +13,7 @@ public class TelaDeCadastro {
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
         JLabel label = new JLabel("Tela De Cadastro");
-        label.setBounds(330, 20, 300, 120);
+        label.setBounds(350, 20, 300, 120);
         frame.add(label);
 
         JLabel lblLogin = new JLabel("Login:");
